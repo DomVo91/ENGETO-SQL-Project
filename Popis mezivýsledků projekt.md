@@ -1,24 +1,19 @@
 ## Otázka 1. 
 Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-
-## Závěr
+Závěr
 Mzdy v průběhu let nominálně rostou ve všech odvětvích. Dlouhodobě rostou všude, ale krátkodobě (meziročně) vlivem hospodářských cyklů v konkrétních odvětvích mzdy klesají, což se nejvýrazněji projevilo kolem roku 2013 a to konkrétně v těžbě a dobývání, výroby a rozvodu elektřiny a peněžnictví a pojišťovnictví.
 
--- Otázka 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+## Otázka 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
--- Bylo porovnáváno první a poslední sledované období, tedy rok 2006 a 2018.
--- Interpretace: Mléko: nárůst o cca 14 % (ze 1460 na 1667 l). Chléb: nárůst o cca 4 % (ze 1308 na 1363 kg).
----------------------------------------------------------------------------------------------------------------	
+Bylo porovnáváno první a poslední sledované období, tedy rok 2006 a 2018.
+Interpretace: Mléko: nárůst o cca 14 % (ze 1460 na 1667 l). Chléb: nárůst o cca 4 % (ze 1308 na 1363 kg).
 
--- Otázka 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
-
---Závěr: Nejpomaleji zdražila přírodní minerální voda uhličitá.
----------------------------------------------------------------------------------------------------------------	
+## Otázka 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+Závěr: Nejpomaleji zdražila přírodní minerální voda uhličitá.
 	
--- Otázka 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
-
--- Závěr: Ne, ve sledovaném období neexistuje rok, ve kterém by byl meziroční nárůst cen potravin o více než 10 % vyšší než růst mezd.
----------------------------------------------------------------------------------------------------------------	
+## Otázka 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+Závěr: Ne, ve sledovaném období neexistuje rok, ve kterém by byl meziroční nárůst cen potravin o více než 10 % vyšší než růst mezd.
+	
 
 -- Otázka 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 
