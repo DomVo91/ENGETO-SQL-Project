@@ -1,11 +1,12 @@
 ## Otázka 1. 
 Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-- Závěr
+## Závěr
 Mzdy v průběhu let nominálně rostou ve všech odvětvích. Dlouhodobě rostou všude, ale krátkodobě (meziročně) vlivem hospodářských cyklů v konkrétních odvětvích mzdy klesají, což se nejvýrazněji projevilo kolem roku 2013 a to konkrétně v těžbě a dobývání, výroby a rozvodu elektřiny a peněžnictví a pojišťovnictví.
 
 ## Otázka 2. 
 Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
+## Závěr
 Bylo porovnáváno první a poslední sledované období, tedy rok 2006 a 2018.
 Interpretace: Mléko: nárůst o cca 14 % (ze 1460 na 1667 l). Chléb: nárůst o cca 4 % (ze 1308 na 1363 kg).
 
