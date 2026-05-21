@@ -27,8 +27,9 @@ Mzdy v průběhu let nominálně rostou ve všech odvětvích. Dlouhodobě rosto
 V prvním a posledním srovnatelném období (roky 2006 a 2018) došlo ke zvýšení kupní síly obyvatelstva u obou sledovaných základních potravin. Průměrný občan si mohl ze své měsíční mzdy pořídit výrazně více litrů mléka i kilogramů chleba.
 V roce 2006 bylo možné si koupit 1460 l mléka a 1308 kg chleba, zatímco v roce 2018 to bylo 1667 l mléka a 1363 kg chleba. 
 4. **Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
-5. **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
-6. **Má výška HDP vliv na změny ve mzdách a cenách potravin? (Projevuje se růst HDP výraznějším růstem mezd či cen ve stejném nebo následujícím roce?)**
+Nejpomaleji zdražující kategorií (respektive kategorií s nejnižším průměrným meziročním nárůstem cen) je Cukr krystalový.
+6. **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
+7. **Má výška HDP vliv na změny ve mzdách a cenách potravin? (Projevuje se růst HDP výraznějším růstem mezd či cen ve stejném nebo následujícím roce?)**
 
 ---
 
