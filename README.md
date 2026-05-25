@@ -26,11 +26,12 @@ Mzdy v průběhu let nominálně rostou ve všech odvětvích. Dlouhodobě rosto
 2. **Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 V prvním a posledním srovnatelném období (roky 2006 a 2018) došlo ke zvýšení kupní síly obyvatelstva u obou sledovaných základních potravin. Průměrný občan si mohl ze své měsíční mzdy pořídit výrazně více litrů mléka i kilogramů chleba.
 V roce 2006 bylo možné si koupit 1460 l mléka a 1308 kg chleba, zatímco v roce 2018 to bylo 1667 l mléka a 1363 kg chleba. 
-4. **Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
+3. **Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 Nejpomaleji zdražující kategorií (respektive kategorií s nejnižším průměrným meziročním nárůstem cen) je Cukr krystalový.
-6. **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
+4. **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 Analýza dat ukázala, že ve sledovaném období neexistuje žádný rok, kdy by nárůst cen potravin překonal růst mezd o více než 10 %. Nejblíže k negativnímu extrému měl rok 2013, kdy ceny potravin utekly mzdám o 6,59 % (ceny potravin +5,10 %, mzdy -1,49 %). Naopak nejlepším obdobím pro peněženky byl rok 2009, kdy mzdy porazily ceny potravin o 9,50 % díky poklesu cen jídla o -6,41 %. Sledovaná data tak potvrzují, mzdový a cenový vývoj byl stabilní a k žádnému drastickému propadu kupní síly nad 10 % nedošlo.
-8. **Má výška HDP vliv na změny ve mzdách a cenách potravin? (Projevuje se růst HDP výraznějším růstem mezd či cen ve stejném nebo následujícím roce?)**
+5. **Má výška HDP vliv na změny ve mzdách a cenách potravin? (Projevuje se růst HDP výraznějším růstem mezd či cen ve stejném nebo následujícím roce?)**
+Na základě provedené datové analýzy nelze jednoznačně tvrdit, že by výše HDP měla přímý, okamžitý a předvídatelný vliv na změny cen potravin a mezd. Pokud HDP v jednom roce výrazně vzroste, neprojeví se to automaticky ani ve stejném, ani v následujícím roce fixním nebo výraznějším růstem těchto ukazatelů. Ekonomické veličiny vykazují značnou volatilitu a v různých obdobích se chovají odlišně.
 
 ---
 
