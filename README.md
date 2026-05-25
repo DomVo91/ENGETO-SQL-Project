@@ -45,11 +45,11 @@ Vysvětlení struktury úvodu:
 
 Tento projekt úspěšně zkonsolidoval roztříštěná data z Portálu otevřených dat ČR a mezinárodních ekonomických databází do dvou centralizovaných tabulek (`t_dominik_project_SQL_primary_final` a `t_dominik_project_SQL_secondary_final`). Výsledné SQL skripty byly navrženy s maximálním důrazem na jednoduchost a efektivitu, což eliminuje zbytečnou zátěž databázového serveru PostgreSQL a umožňuje snadnou automatizaci reportingu v budoucnu.
 
-### Klíčová zjištění pro konferenci:
-1. **Trend vývoje mezd:** Data jasně ukazují, zda ekonomický růst v ČR lineárně zvyšoval mzdy ve všech odvětvích, nebo zda vybrané sektory (např. vlivem tržních krizí) vykazovaly meziroční propady.
-2. **Kupní síla obyvatel:** Porovnání prvního a posledního srovnatelného období u chleba a mléka poskytuje tiskovému oddělení perfektně srozumitelný a lidský ukazatel reálné životní úrovně – tedy kolik reálných produktů si občan odnesl domů z obchodu za průměrný plat tehdy a dnes.
-3. **Dynamika cen a HDP:** Analýza potvrdila nebo vyvrátila přímou závislost mezi skokovým růstem makroekonomického HDP a následným (či okamžitým) inflačním tlakem na ceny potravin a růst mezd v České republice.
-
+### Klíčové highlights pro tiskové oddělení:
+1. **Platy dlouhodobě rostly, krize je ale zmrazila** – Ekonomický růst sice platy stabilně zvyšoval, ale v krizovém roce 2013 přišel tvrdý náraz a průměrné platy lidem meziročně klesly o 1,49 %.
+2. **Kupní síla výrazně stoupla** – Životní úroveň v ČR za sledované období viditelně vzrostla. Za průměrný plat si dnes z obchodu odneseme o 300 kg více chleba a o 500 litrů více mléka než v minulosti.
+3. **Ceny potravin kašlou na HDP** – Úspěch ekonomiky neurčuje ceny v regálech. Například v roce 2015 ekonomika šlapala, ale jídlo zlevnilo. V krizi roku 2012 naopak ekonomika padala, lidem klesaly platy, ale potraviny přesto drasticky zdražovaly.
+4. **Žádný cenový šok se nekonal** – Ani v nejhorším roce (2013) neodskočily ceny jídla od růstu platů o více než 6,59 %. Hranice 10 %, která by znamenala drastické zchudnutí obyvatel, nebyla nikdy překročena.
 ---
 
 ## Datový audit & Omezení výstupních dat
