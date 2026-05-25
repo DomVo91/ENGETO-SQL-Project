@@ -29,7 +29,8 @@ V roce 2006 bylo možné si koupit 1460 l mléka a 1308 kg chleba, zatímco v ro
 4. **Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 Nejpomaleji zdražující kategorií (respektive kategorií s nejnižším průměrným meziročním nárůstem cen) je Cukr krystalový.
 6. **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
-7. **Má výška HDP vliv na změny ve mzdách a cenách potravin? (Projevuje se růst HDP výraznějším růstem mezd či cen ve stejném nebo následujícím roce?)**
+Analýza dat ukázala, že ve sledovaném období neexistuje žádný rok, kdy by nárůst cen potravin překonal růst mezd o více než 10 %. Nejblíže k negativnímu extrému měl rok 2013, kdy ceny potravin utekly mzdám o 6,59 % (ceny potravin +5,10 %, mzdy -1,49 %). Naopak nejlepším obdobím pro peněženky byl rok 2009, kdy mzdy porazily ceny potravin o 9,50 % díky poklesu cen jídla o -6,41 %. Sledovaná data tak potvrzují, mzdový a cenový vývoj byl stabilní a k žádnému drastickému propadu kupní síly nad 10 % nedošlo.
+8. **Má výška HDP vliv na změny ve mzdách a cenách potravin? (Projevuje se růst HDP výraznějším růstem mezd či cen ve stejném nebo následujícím roce?)**
 
 ---
 
